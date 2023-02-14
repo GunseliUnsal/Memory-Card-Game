@@ -12,6 +12,6 @@ Technologies:
 
 #### Screenshots
 
-<p><img align="center" src="screenshot-guess-my-number.png"/></p>
+<p><img align="center" src="memorygame1.png"/></p>
 
-<p><img align="center" src="screenshot2-guess-my-number.png"/></p>
+<p><img align="center" src="memorygame2.png"/></p>
